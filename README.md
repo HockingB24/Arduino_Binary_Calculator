@@ -14,3 +14,5 @@ Instructions for building Arduino breadboard:
   - Green: 8-11
 - The IR Receiver connects to Ground, 5V, and Pin 12 (G, R, Y)
 
+
+Created as a Platform.io project on VSCode. The Platform.io extension is likely required to run.
